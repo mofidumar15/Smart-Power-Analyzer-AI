@@ -68,9 +68,11 @@ python main.py
 
 ## 📊 Example Output
 
-* Daily Energy: 5 kWh
-* Monthly Energy: 150 kWh
-* Cost: ₹1200
+* Daily Energy: 0.6 kWh
+* Monthly Energy: 24 kWh
+* Cost: ₹96
+  <img width="769" height="755" alt="image" src="https://github.com/user-attachments/assets/1c4fde30-74da-459f-bf7b-fc81fd81ac34" />
+
 
 ---
 
